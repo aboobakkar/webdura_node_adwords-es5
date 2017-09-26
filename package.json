@@ -1,0 +1,38 @@
+{
+  "name": "webdura_node_adwords-es5",
+  "version": "1.0.0",
+  "description": "node adwords package customized version of webdura by aboo pallikara",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aboobakkar/webdura_node_adwords-es5.git"
+  },
+  "keywords": [
+    "nodejs",
+    "meteor",
+    "adwords"
+  ],
+  "author": "aboo pallikara",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aboobakkar/webdura_node_adwords-es5/issues"
+  },
+  "homepage": "https://github.com/aboobakkar/webdura_node_adwords-es5#readme",
+   "dependencies": {
+    "async": "^2.0.0",
+    "babel-runtime": "^6.23.0",
+    "webdura_googleapi_marketing ": "^1.0.2",
+    "lodash": "^4.17.4",
+    "moment": "^2.15.0",
+    "request": "^2.73.0",
+    "webdura_soap_marketing ": "^1.0.2",
+    "xmlbuilder": "^8.2.2"
+  }
+}
+
+
+
+
